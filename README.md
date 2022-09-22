@@ -1,7 +1,7 @@
 # Social media classifier
 Machine Learning for Classifying Social Media Ads
 
-Installation and importing of the required libraries
+### Installation and importing of the required libraries
 
 ```python
 import numpy
@@ -66,7 +66,7 @@ The test_size is 10%.
 print(classification_report(ytest, predictions))
 ```
 
-
+I will include an article link about this project once it is published...enjoy!
 
 
 
